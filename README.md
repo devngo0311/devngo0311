@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devngo0311)](https://github.com/devngo0311/github-readme-stats)
 
 <!---
 devngo0311/devngo0311 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
