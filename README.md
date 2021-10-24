@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devngo0311&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devngo0311&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devngo0311&layout=compact)
 
 
