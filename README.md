@@ -8,7 +8,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devngo0311)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devngo0311&layout=compact)
 
-(https://github-readme-stats.vercel.app/api/wakatime?username=devngo0311)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=devngo0311)
+
 
 <!---
 devngo0311/devngo0311 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
